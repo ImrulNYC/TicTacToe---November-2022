@@ -1,5 +1,5 @@
 # TicTacToe---November-2022
-Run TicTacToe.java on IDE
+Run TicTacToe.java on IDE.
 2 Players game.
 reset button .
 X And O players .
